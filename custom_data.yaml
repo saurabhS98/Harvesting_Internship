@@ -1,0 +1,13 @@
+
+
+
+train: ../datasets/train_data/images/train/  # train images (relative to 'path') 128 images
+val: ../datasets/train_data/images/val/  # val images (relative to 'path') 128 images
+
+
+# Classes
+nc: 2  # number of classes
+names: ['Defective_apple','Defective_orange']  # class names
+
+
+
