@@ -1,6 +1,6 @@
 # Detecting Defects in Fruits Using Deep Learning
-## Problem Statement: Using Artificial Intelligence through deep learning to automate fruit detection, sorting and identification of 
-  damaged ones, collect sufficient data from the internet to efficiently train the model that one builds
+## Problem Statement: 
+Using Artificial Intelligence through deep learning to automate fruit detection, sorting and identification of damaged ones, collect sufficient data from the internet to efficiently train the model that one builds
 ## Methodology:
 •	Collected 2000+ pictures of each fruit that would cover the variety, both healthy and damaged ones included
 •	70% of the dataset is divided into training the AI model, while the rest 30% into testing 
